@@ -32,15 +32,3 @@
 | Deployment    | Vercel (Frontend), Render/Railway (Backend)
 
 ---
-
-## 📸 Screenshots
-
-> Upload screenshots inside the `/public/assets/` folder and reference them here:
-
-### 🔐 Student Login
-
-![Login](./public/assets/student_login.png)
-
-### 🛒 Cart & Checkout
-
-![Cart](./pu)
