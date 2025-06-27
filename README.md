@@ -29,6 +29,5 @@
 | Database      | MongoDB                   |
 | Auth          | JWT (or NextAuth.js)      |
 | Payment       | Dummy integration (custom logic) |
-| Deployment    | Vercel (Frontend), Render/Railway (Backend)
 
 ---
